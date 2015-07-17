@@ -14,7 +14,11 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_ShowUnitySplashScreen: 1
+<<<<<<< HEAD
   defaultScreenWidth: 1100
+=======
+  defaultScreenWidth: 1115
+>>>>>>> b494295da884fa2a3ca3fe6911a0da2b1feb31de
   defaultScreenHeight: 892
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
