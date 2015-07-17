@@ -1,0 +1,58 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     2095 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Limey\Documents\SlingShooterProject\GameTest_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 93f0 -> priority: 1 
+  Thread -> id: 7a48 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.605670 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.209661 ms (FindLiveObjects: 0.016127 ms CreateObjectMapping: 0.009896 ms MarkObjects: 0.175573 ms  DeleteObjects: 0.006964 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.576569 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 194.
+Total: 0.340150 ms (FindLiveObjects: 0.019060 ms CreateObjectMapping: 0.009163 ms MarkObjects: 0.229455 ms  DeleteObjects: 0.081372 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387434 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 0.226889 ms (FindLiveObjects: 0.021625 ms CreateObjectMapping: 0.009163 ms MarkObjects: 0.187302 ms  DeleteObjects: 0.008063 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.439116 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 429.
+Total: 0.218092 ms (FindLiveObjects: 0.026024 ms CreateObjectMapping: 0.012095 ms MarkObjects: 0.169342 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.780367 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 0.538816 ms (FindLiveObjects: 0.043618 ms CreateObjectMapping: 0.017593 ms MarkObjects: 0.344549 ms  DeleteObjects: 0.131221 ms)
+
