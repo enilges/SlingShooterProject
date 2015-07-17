@@ -1156,7 +1156,7 @@ MonoBehaviour:
   m_Text: 'Character
 
 
-    Tiger Shark'
+    Mako Shark'
 --- !u!222 &770851227
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1847,11 +1847,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1298800529}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2f5176118cc1a4970933313e2169a4f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 6cf3ae85fb3a22d4f896f2f7f2610832, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabProjectile: {fileID: 101640, guid: afb2cde7826024ea589cc2e254a6728d, type: 2}
-  velocityMult: 4
+  prefabProjectiletwo: {fileID: 101640, guid: b9be3ae57f4f36748b346a842da1ee74, type: 2}
+  velocityMult: 15
 --- !u!1 &1369081085
 GameObject:
   m_ObjectHideFlags: 0
